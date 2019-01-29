@@ -1,2 +1,2 @@
 # ForbiddenTemperature
-A RimWorld 1.0 mod that makes campfires/torches/passive cooler forbiddable 
+A RimWorld mod that makes campfires/torches/passive cooler forbiddable 
