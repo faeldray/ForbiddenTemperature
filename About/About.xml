@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Forbidden Temperatures</name>
+	<author>Faeldray</author>
+	<supportedVersions>
+		<li>0.19</li>
+		<li>1.0</li>
+		</supportedVersions>
+	<description>Makes campfires, passive coolers, and torch lamps forbiddable.</description>
+</ModMetaData>

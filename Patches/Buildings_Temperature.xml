@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+<Operation Class="PatchOperationAdd">
+    <xpath>*/ThingDef[defName="Campfire"]/comps</xpath>
+    <value>
+        <li Class="CompProperties_Forbiddable"/>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>*/ThingDef[defName="PassiveCooler"]/comps</xpath>
+    <value>
+        <li Class="CompProperties_Forbiddable"/>
+    </value>
+</Operation>
+</Patch>
